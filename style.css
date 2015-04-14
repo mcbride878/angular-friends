@@ -45,6 +45,7 @@ input, select, form, ul {
 .profile-pic {
 	float: left;
 	padding-right: 13px;
+	padding-bottom: 13px;
 	max-height: 50px;
 }
 
@@ -69,7 +70,7 @@ ul{
 	font-weight: bold;
 }
 .status {
-	margin-top:12px;
+	margin: 12px;
 	clear: both;
 }
 .num-friends {
